@@ -1,0 +1,13 @@
+*.iml
+.gradle
+.idea
+build
+gradle
+app/build
+app/*.iml
+com.geniusgithub.common/build
+com.geniusgithub.common/*.iml
+cybergarage-upnp/build
+cybergarage-upnp/*.iml
+dlnaLibrary/build
+dlnaLibrary/*.iml
